@@ -1,0 +1,36 @@
+
+/* Set prooperties in a separate file for header tags*/
+h3{
+    color: green;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+
+}
+
+/* Set style for an object with 'box' class defined*/
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    border: 10px solid red;
+    float: left;
+
+}
+
+/* */
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(205, 20, 153);
+    margin: 20px;
+    padding: 20px;
+    border: 10px solid rgb(56, 209, 14);
+    float: right;
+    position: absolute;
+    top: 400px;
+    left: 400px;
+
+}
